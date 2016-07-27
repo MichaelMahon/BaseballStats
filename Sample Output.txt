@@ -1,0 +1,64 @@
+Enter the total at bats you would like to calculate
+5
+Enter the number of bases earned for at bat 1
+4
+Enter the number of bases earned for at bat 2
+1
+Enter the number of bases earned for at bat 3
+2
+Enter the number of bases earned for at bat 4
+3
+Enter the number of bases earned for at bat 5
+8
+Enter a base number (1-4).
+Enter the number of bases earned for at bat 5
+-1
+Enter a base number (1-4).
+Enter the number of bases earned for at bat 5
+2
+Your batting average is 1.000
+Your slugging percentage is 2.400
+
+Calculate another batters average? <y/n>
+y
+Enter the total at bats you would like to calculate
+4
+Enter the number of bases earned for at bat 1
+1
+Enter the number of bases earned for at bat 2
+0
+Enter the number of bases earned for at bat 3
+0
+Enter the number of bases earned for at bat 4
+0
+Your batting average is 0.250
+Your slugging percentage is 0.250
+
+Calculate another batters average? <y/n>
+y
+Enter the total at bats you would like to calculate
+8
+Enter the number of bases earned for at bat 1
+2
+Enter the number of bases earned for at bat 2
+3
+Enter the number of bases earned for at bat 3
+0
+Enter the number of bases earned for at bat 4
+0
+Enter the number of bases earned for at bat 5
+0
+Enter the number of bases earned for at bat 6
+1
+Enter the number of bases earned for at bat 7
+4
+Enter the number of bases earned for at bat 8
+0
+Your batting average is 0.500
+Your slugging percentage is 1.250
+
+Calculate another batters average? <y/n>
+n
+Player 1's batting average is 1.000 and slugging percentage is 2.400
+Player 2's batting average is 0.250 and slugging percentage is 0.250
+Player 3's batting average is 0.500 and slugging percentage is 1.250
